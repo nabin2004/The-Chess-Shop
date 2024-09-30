@@ -1,8 +1,7 @@
 from django.contrib import admin
 from django.urls import path, include
 from . import views
-from django.contrib.auth import authenticate, login, logout
-from django.contrib import messages
+
 
 urlpatterns = [
     path('home/', views.home, name="home"),
