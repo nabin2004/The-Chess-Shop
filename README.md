@@ -1,2 +1,3 @@
-# EcommerceWebsite
-Ecommerce website with Django
+# The Chess Shop
+Find your all chess merchandise at one place
+---
